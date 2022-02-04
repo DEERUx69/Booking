@@ -1,0 +1,56 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+}
+body{
+    margin: 5%;
+}
+
+#h2{
+    text-align: center;
+    margin-top: 0;
+    text-shadow: 1px 0px red;
+}
+#div1{
+    box-sizing: border-box;
+    border-color: #eaeaea;
+    text-align: center;
+}
+#input1{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 25%;
+    
+}
+#input2{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 25%;
+}
+#input3{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 25%;
+}
+#input4{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 25%;
+}
+#submit{
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: 80%;
+    border-radius: 5px;
+    
+}
+#submit:hover{
+    background-color: blue;
+}
+#textarea{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 50.01%;
+    
+}
